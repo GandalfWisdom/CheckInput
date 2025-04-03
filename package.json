@@ -1,0 +1,25 @@
+{
+  "name": "@gandalfwisdom/checkinput",
+  "version": "1.0.0",
+  "description": "Checks input to determine platform game is running on for Roblox.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GandalfWisdom/CheckInput.git"
+  },
+  "keywords": [
+    "Roblox",
+    "Nevermore",
+    "Lua",
+    "Module"
+  ],
+  "author": "GandalfWisdom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GandalfWisdom/CheckInput/issues"
+  },
+  "homepage": "https://github.com/GandalfWisdom/CheckInput#readme"
+}
